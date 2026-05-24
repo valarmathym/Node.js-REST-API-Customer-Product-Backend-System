@@ -1,0 +1,143 @@
+[{
+  "name": "White Sneakers",
+  "description": "A comfortable pair of white sneakers with a cushioned sole.",
+  "price": 69.99,
+  "category": "Footwear",
+  "tags": [
+    "White",
+    "Sneakers",
+    "Comfortable"
+  ]
+},
+{
+  "name": "Black Leather Jacket",
+  "description": "A sleek black leather jacket with a zippered front.",
+  "price": 129.99,
+  "category": "Clothing",
+  "tags": [
+    "Black",
+    "Leather",
+    "Jacket"
+  ]
+},
+{
+  "name": "Wireless Headphones",
+  "description": "A pair of wireless headphones with noise-cancelling technology.",
+  "price": 149.99,
+  "category": "Electronics",
+  "tags": [
+    "Wireless",
+    "Headphones",
+    "Noise-Cancelling"
+  ]
+},
+{
+  "name": "Brown Shirt ",
+  "description": "A bright BROWN shirt made from 100% cotton.",
+  "price": 129.99,
+  "category": "Clothing",
+  "tags": [
+    "Brown",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Blue Jeans",
+  "description": "A classic pair of blue jeans made from durable denim.",
+  "price": 49.99,
+  "category": "Clothing",
+  "tags": [
+    "Blue",
+    "Jeans",
+    "Denim"
+  ]
+},
+{
+  "name": "Red Shirt",
+  "description": "A bright red shirt made from 100% cotton.",
+  "price": 29.99,
+  "category": "Clothing",
+  "tags": [
+    "Red",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Green Shirt",
+  "description": "A bright green shirt made from 100% cotton.",
+  "price": 124.99,
+  "category": "Clothing",
+  "tags": [
+    "Green",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Green Shirt",
+  "description": "A bright green shirt made from 100% cotton.",
+  "price": 24.99,
+  "category": "Clothing",
+  "tags": [
+    "Green",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Green Shirt",
+  "description": "A bright green shirt made from 100% cotton.",
+  "price": 999,
+  "category": "Clothing",
+  "tags": [
+    "Green",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Brown Shirt ",
+  "description": "A bright BROWN shirt made from 100% cotton.",
+  "price": 129.99,
+  "category": "Clothing",
+  "tags": [
+    "Brown",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Brown Shirt xxxxx ",
+  "description": "A bright BROWN shirt made from 100% cotton.xxxxxxx",
+  "price": 129.99,
+  "category": "Clothing",
+  "tags": [
+    "Brown",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Brown Shirt yyyyyyyy ",
+  "description": "A bright BROWN shirt made from 100% cotton.xxxxxxx",
+  "price": 129.89,
+  "category": "Clothing",
+  "tags": [
+    "Brown",
+    "Shirt",
+    "Cotton"
+  ]
+},
+{
+  "name": "Brown Shirt yyyyyyyy ",
+  "description": "A bright BROWN shirt made from 100% cotton.xxxxxxx",
+  "price": 129.89,
+  "category": "Clothing",
+  "tags": [
+    "Brown",
+    "Shirt",
+    "Cotton"
+  ]
+}]
