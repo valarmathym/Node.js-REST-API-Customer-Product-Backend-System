@@ -1,52 +1,130 @@
-# Manage Products REST API (Node.js + Express + MongoDB)
+# Node.js REST API – Customer & Product Management System
 
-##  Project Overview
-This project is a RESTful API built using Node.js, Express, and MongoDB. It allows users to manage product data including creation and retrieval of products with fields such as name, description, price, category, and tags.
+A backend REST API project built using **Node.js** to manage customer and product data with a modular architecture.
 
----
-
-##  Features
-## Features
-- Create product (POST)
-- Retrieve all products (GET)
-- Retrieve single product (GET by ID)
-- Update product (PUT / PATCH)
-- Delete product (DELETE)
-- MongoDB database integration
-- RESTful API architecture
+This project demonstrates backend development skills including API design, database connection, and structured JavaScript programming.
 
 ---
 
-##  Tech Stack
+##  Project Features
+
+- RESTful API built using Node.js
+- Customer management module
+- Product management module
+- Modular JavaScript structure
+- Database connection handling
+- JSON-based data processing
+- Organized setup and testing folders
+- Supports CRUD operations (Create, Read, Update, Delete)
+
+---
+
+##  Technologies Used
+
 - Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
-- Body-parser
+- JavaScript (ES6)
+- Express.js (if used)
+- JSON File Handling
+- Database Connection (local/custom module)
+
+---
+
+##  Project Structure
+
+```text
+project-folder/
+│
+├── server.js
+├── customer.js
+├── product.js
+├── db.js
+├── localdbconnect.js
+├── package.json
+├── package-lock.json
+├── json/
+├── SETUP/
+├── TESTING/
+├── RESTAPI.png
+└── README.md
+```
 
 ---
 
 ##  Installation & Setup
 
-### 1. Clone the repository
+### 1. Clone Repository
+
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-## 2. Install dependencies
+git clone https://github.com/your-username/nodejs-restapi-customer-product-system.git
+```
 
+---
+
+### 2. Install Dependencies
+
+```bash
 npm install
-## 3. Run the Server
-## API Endpoints
-1.Create Products
-2. Get all Products
-Database
+```
 
-This project uses MongoDB Atlas for cloud database storage.
+---
 
-##  Note
+### 3. Run the Server
 
-Make sure to add your MongoDB connection string in db.js and never expose credentials publicly.
+```bash
+node server.js
+```
+
+Server will start on:
+```text
+http://localhost:3000
+```
+
+---
+
+##  API Features (Example)
+
+- Add new customer
+- View customer list
+- Update customer details
+- Delete customer
+- Add product
+- View product list
+- Update product details
+- Delete product
+
+---
+
+##  Testing
+
+The project includes a `TESTING/` folder containing API test cases and documentation for verification.
+
+---
+
+##  Learning Outcomes
+
+This project helped develop skills in:
+
+- Backend API development using Node.js
+- Modular programming structure
+- CRUD operations implementation
+- Working with JSON data
+- Server-side JavaScript development
+- Project organization and documentation
+
+---
+
+##  Future Improvements
+
+- Integrate MySQL or MongoDB database
+- Add authentication (JWT login system)
+- Improve validation and error handling
+- Deploy live API on cloud platform
+- Add frontend interface for interaction
+
+---
 
 ##  Author
 
-Your Name
-Valarmathy
+**Valarmathy Murugan**
+
+Backend Development Project – Node.js REST API System
