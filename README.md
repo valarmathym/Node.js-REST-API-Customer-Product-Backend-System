@@ -6,11 +6,14 @@ This project is a RESTful API built using Node.js, Express, and MongoDB. It allo
 ---
 
 ##  Features
-- Create new product (POST)
+## Features
+- Create product (POST)
 - Retrieve all products (GET)
+- Retrieve single product (GET by ID)
+- Update product (PUT / PATCH)
+- Delete product (DELETE)
 - MongoDB database integration
 - RESTful API architecture
-- Scalable backend structure
 
 ---
 
