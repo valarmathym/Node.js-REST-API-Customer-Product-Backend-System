@@ -1,4 +1,4 @@
-# Product REST API (Node.js + Express + MongoDB)
+# Manage Products REST API (Node.js + Express + MongoDB)
 
 ##  Project Overview
 This project is a RESTful API built using Node.js, Express, and MongoDB. It allows users to manage product data including creation and retrieval of products with fields such as name, description, price, category, and tags.
